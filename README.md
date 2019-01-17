@@ -1,5 +1,7 @@
+Sorry i couldn't host the app on github due to problems with routings
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Sorry i couldn't host the app on github due to problems with routings
 ## Available Scripts
 
 In the project directory, you can run:
